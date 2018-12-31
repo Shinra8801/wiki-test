@@ -21,3 +21,7 @@ foreach (i as x => y)
 かきくけこ
 foreach (i as x => y)
 ```
+
+![画像です](640x480.png){ width=50% }
+
+<img src="640x480.png" alt="画像です" style="width: 50px;">
